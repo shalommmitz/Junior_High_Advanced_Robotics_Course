@@ -10,29 +10,40 @@ The materials of the advanced robotics course given at the Ofek school of gifted
    - "Lessons by demand": The students will be able to order lessons for them or the whole class
    
 
-## Plan of the course
+## Course Plan 
 
 1. Base line: brush up Python + robot control methods
    
    1.1 Python brush up
+
    1.2 Fun activity: customize your robot with a picture (also verify each student has a working robot)
+
    1.3 Learn to load sw to the robot: Make it do a rectangular with internal software
+
    1.4 Write virtual graphical controller, using pyGame and REPL-lib
 
 2. Machine vision
 
    2.1 Draw using py-game
+
    2.1.1 coordinate
+
    2.1.2 RGB
+
    2.1.3 shape formulas
+
    2.2 encrypt pattern in BMP
+
    2.3 Acquire and pre-process web-cam pics (openCV)
 
 3. Machine Learning
 
    3.1 (recommended) into to ML lecture
+
    3.2 Neural Network in 11 lines of Python
+
    3.3 Hands-on 1: cats/dogs ? MINST ? Leafs?
+
    3.4 Hands-on 2: process pics
    
 4. Project

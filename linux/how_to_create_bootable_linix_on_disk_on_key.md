@@ -21,4 +21,5 @@
       Feed your user password (that you set during installation) twice
    10. Reboot the PC
    11. Install essential packages:
+       sudo apt install gedit gedit-plugins ispell firefox python-is-python3 ffmpeg
    12 Customize to taste

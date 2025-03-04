@@ -1,21 +1,26 @@
-Basic Linux Commands      Shalom Mitz   3-Feb-2025
+#vBasic Linux Commands      Shalom Mitz   3-Feb-2025
 
-wild cards:  
+## wild cards:  
+
    * --> any sequence of chars   . --> one char
    examples:   *.txt    student_name_???.csv
 
-path: 
+## path: 
+
    ~ --> home dir   / --> root dir   . --> current dir   .. --> parent dir
    paths can be absolute (start with /) or relative (to the current dir)
    separated by  /
 
-re-execute commands: 
+## re-execute commands: 
+
    Arrow-up: get previous command(s)  history: show previous commands
 
-chaining:  
+## chaining:  
+
    | --> connects output of one command to input on next command    > --> put output into file
 
-commands:
+## commands:
+
 	find <path>: find all the files in path  pwd: present working directory
 	ls: shows files and dictionaries in current dictionary
 		ls -l: the same, shows details such as size
@@ -36,7 +41,8 @@ commands:
         su: became super-user (lets you do dangerous things)
         sudo: lets you execute dangerous commands
         
-Applications:
+## Applications:
+
     vi <file name>: edit files (visual editor): hard to use but fast
         vi commands:   Esc   i   A  :wq  x   dd
     git <command>: a time machine for projects

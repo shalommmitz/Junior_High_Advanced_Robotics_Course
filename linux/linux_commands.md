@@ -1,4 +1,4 @@
-#vBasic Linux Commands      Shalom Mitz   3-Feb-2025
+# Basic Linux Commands      Shalom Mitz   3-Feb-2025
 
 ## wild cards:  
 
